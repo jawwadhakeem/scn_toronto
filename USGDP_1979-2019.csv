@@ -1,4 +1,4 @@
-"Year","Nominal GDP (million of Dollars)","Real GDP (millions of 2012 dollars)","GDP Deflator (index 2012=100)","Population (in thousands)","Nominal GDP per capita (current dollars)","Real GDP per capita (year 2012 dollars)"
+"Year","Nominal GDP","Real GDP","GDP Deflator","Population","Nominal GDP per capita","Real GDP per capita"
 "1979","2,627,300","6,776,600","38.77","225,106.00","11,671.39","30,104.04"
 "1980","2,857,300","6,759,200","42.27","227,726.00","12,547.10","29,681.28"
 "1981","3,207,000","6,930,700","46.27","230,008.00","13,942.99","30,132.43"
